@@ -10,8 +10,8 @@
 
 <form action="myform" method="post">
 
-username : <input type="text" name=""><br>
-password : <input type="text" name=""><br>
+username : <input type="text" name="userName"><br>
+password : <input type="text" name="password"><br>
 <input type="submit" value="save">
 
 
